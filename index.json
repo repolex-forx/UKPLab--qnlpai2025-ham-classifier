@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "qnlpai2025-ham-classifier",
+  "versions": [
+    {
+      "commit": "40720adc5bfbc6c90f17007fffd904fec4916828",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:39:43.256646+00:00"
+    }
+  ]
+}
