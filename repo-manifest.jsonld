@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/qnlpai2025-ham-classifier/commit/40720adc5bfbc6c90f17007fffd904fec4916828",
       "git:hexsha": "40720adc5bfbc6c90f17007fffd904fec4916828",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
